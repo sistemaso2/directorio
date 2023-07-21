@@ -1,0 +1,44 @@
+.fondo{
+    background-color: #524B74;
+}
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;
+
+}
+h1{
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;
+    text-align: center;
+}
+P{
+    color: white;
+    text-align: center;
+}
+.black{
+    color: black;
+}
+main{
+    text-align: center;
+
+}
+/* logo */
+.fondo{
+    margin-top: 25px;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-bottom: 0;
+}
+.logo{
+    text-align: center;
+}
+
+@media (max-width:320px){
+    
+}
+@media (min-width:768px){
+  
+}
